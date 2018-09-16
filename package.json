@@ -1,6 +1,6 @@
 {
   "name": "merferry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Merferry.",
   "main": "index.js",
   "scripts": {
