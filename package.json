@@ -1,0 +1,22 @@
+{
+  "name": "merferry",
+  "version": "0.0.1",
+  "description": "Merferry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merferry/merferry.git"
+  },
+  "keywords": [
+    "merferry"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/merferry/merferry/issues"
+  },
+  "homepage": "https://github.com/merferry/merferry#readme"
+}
